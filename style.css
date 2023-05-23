@@ -23,10 +23,6 @@ input{
     margin-bottom: 1rem !important;
 }
 
-li{
-    margin-bottom: 1rem;
-}
-
 header{
     display: flex;
     justify-content: space-around;
@@ -58,4 +54,17 @@ h2, button{
 }
 .danger:hover{
     background-color: rgb(195, 0, 0);
+}
+
+#monitoria-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+li{
+    margin-left: 1rem;
+    -webkit-box-shadow: 0px 0px 21px -9px rgba(130,130,130,1);
+    -moz-box-shadow: 0px 0px 21px -9px rgba(130,130,130,1);
+    box-shadow: 0px 0px 21px -9px rgba(130,130,130,1);
 }
