@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "atividade-estudo-de-caso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
